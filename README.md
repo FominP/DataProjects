@@ -69,7 +69,7 @@ This is a project from Yandex.Practicum.
 ### Geodata for dashboard
 Task: collecting data on the Canadian transport system: the location of roads and railways, seaports and airports.
 
-Libraries: `geopandas`, `pandas', `matplotlib`
+Libraries: `geopandas`, `pandas`, `matplotlib`
 
 I did this project as homework for 1 day. I wanted to figure out how to work with geodata. You can find the results here: https://public.tableau.com/app/profile/pavel.fomin/viz/CanadianTransport/Automotive?publish=yes
 
