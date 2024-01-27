@@ -1,45 +1,5 @@
 # Welcome to my data projects!
-You can find project descriptions in Russian and English. / Вы можете найти расписание к проектам на русском и английском. 
-
-# EN
-### yandex_music
-Task: to test 3 hypotheses:
-- User activity depends on the day of the week. Moreover, this manifests itself in different ways in Moscow and St. Petersburg.
-- On Monday morning, some genres prevail in Moscow, and others in St. Petersburg. Similarly, on Friday evenings, different genres prevail, depending on the city.
-- Moscow and St. Petersburg residents prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg - Russian rap.
-
-Libraries: `pandas`
-
-This is a project from Yandex.Practicum.
-
-### yandex_borrowers 
-Task: To determine whether clients' marital status and the number of children affect the fact of loan repayment on time.
-
-Libraries: `pandas`
-
-This is a project from Yandex.Practicum.
-
-### yandex_real_estate
-Task: determining the market value of real estate objects: find parameters that have an impact on the price of real estate objects. 
-
-Libraries: `pandas`, `matplotlib`, `math`, `numpy`
-
-This is a project from Yandex.Practicum.
-
-### Geodata for dashboard
-Task: collecting data on the Canadian transport system: the location of roads and railways, seaports and airports.
-
-Libraries: `geopandas`, `pandas', `matplotlib`
-
-I did this project as homework for 1 day. I wanted to figure out how to work with geodata. You can find the results here: https://public.tableau.com/app/profile/pavel.fomin/viz/CanadianTransport/Automotive?publish=yes
-
-### Currencies
-Task: collecting data on the exchange rates of a large number of countries for further analysis.
-
-Libraries: `pandas`, `investpy`
-
-I did this project at the university to upload currency exchange rate data. I also wanted to practice retrieving data from the REST API services. I decided to post the code for fellow students who do not know how to use Python for such tasks.
-
+You can find project descriptions in Russian and English. / Вы можете найти описание к проектам на русском и английском. 
 
 # RU
 ### yandex_music (Яндекс Музыка)
@@ -80,3 +40,42 @@ I did this project at the university to upload currency exchange rate data. I al
 Библиотеки: `pandas`, `investpy`
 
 Этот проект я делал в университете для выгрузки данных по курсам валют. Также я хотел попрактиковаться в том, как забирать данные из REST API сервисов. Я решил выложить код для сокурсников, которые не владеют Python.
+
+# EN
+### yandex_music
+Task: to test 3 hypotheses:
+- User activity depends on the day of the week. Moreover, this manifests itself in different ways in Moscow and St. Petersburg.
+- On Monday morning, some genres prevail in Moscow, and others in St. Petersburg. Similarly, on Friday evenings, different genres prevail, depending on the city.
+- Moscow and St. Petersburg residents prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg - Russian rap.
+
+Libraries: `pandas`
+
+This is a project from Yandex.Practicum.
+
+### yandex_borrowers 
+Task: To determine whether clients' marital status and the number of children affect the fact of loan repayment on time.
+
+Libraries: `pandas`
+
+This is a project from Yandex.Practicum.
+
+### yandex_real_estate
+Task: determining the market value of real estate objects: find parameters that have an impact on the price of real estate objects. 
+
+Libraries: `pandas`, `matplotlib`, `math`, `numpy`
+
+This is a project from Yandex.Practicum.
+
+### Geodata for dashboard
+Task: collecting data on the Canadian transport system: the location of roads and railways, seaports and airports.
+
+Libraries: `geopandas`, `pandas', `matplotlib`
+
+I did this project as homework for 1 day. I wanted to figure out how to work with geodata. You can find the results here: https://public.tableau.com/app/profile/pavel.fomin/viz/CanadianTransport/Automotive?publish=yes
+
+### Currencies
+Task: collecting data on the exchange rates of a large number of countries for further analysis.
+
+Libraries: `pandas`, `investpy`
+
+I did this project at the university to upload currency exchange rate data. I also wanted to practice retrieving data from the REST API services. I decided to post the code for fellow students who do not know how to use Python for such tasks.
