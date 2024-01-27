@@ -2,7 +2,7 @@
 You can find project descriptions in Russian and English. / Вы можете найти расписание к проектам на русском и английском. 
 
 # EN
-### yandex_music (Яндекс Музыка)
+### yandex_music
 Task: to test 3 hypotheses:
 - User activity depends on the day of the week. Moreover, this manifests itself in different ways in Moscow and St. Petersburg.
 - On Monday morning, some genres prevail in Moscow, and others in St. Petersburg. Similarly, on Friday evenings, different genres prevail, depending on the city.
