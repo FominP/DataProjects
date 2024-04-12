@@ -54,9 +54,17 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 Этот проект я делал в качестве домашней работы в магистратуре.
 
+### parsing
+Задача: научиться работать со средствами парсинга.
+
+Библиотеки: `requests`, `BeautifulSoup`, `selenium`
+
+Этот проект я делал в качестве домашней работы в магистратуре.
+
+
 # EN
 ### tgu_practice
-Task: To study whether there is a correlation between what goals students set and for what reasons they drop out.
+Task: to study whether there is a correlation between what goals students set and for what reasons they drop out.
 
 Libraries: `pandas`, `matplotlib`, `math`, `numpy`
 
@@ -70,7 +78,7 @@ Libraries: `pandas`, `matplotlib`, `math`, `numpy`
 This is a project from my master's programme.
 
 ### yandex_borrowers 
-Task: To determine whether clients' marital status and the number of children affect the fact of loan repayment on time.
+Task: to determine whether clients' marital status and the number of children affect the fact of loan repayment on time.
 
 Libraries: `pandas`
 
@@ -101,8 +109,15 @@ Libraries: `pandas`, `investpy`
 I did this project at the university to upload currency exchange rate data. I also wanted to practice retrieving data from the REST API services. I decided to post the code for fellow students who do not know how to use Python for such tasks.
 
 ### requests_api
-Task: learn how to work with data from different APIs.
+Task: to learn how to work with data from different APIs.
 
-Libraries: `requests', `pandas`
+Libraries: `requests`, `pandas`
+
+I did this project as my homework.
+
+### parsing
+Task: to learn how to work with parsing tools.
+
+Libraries: `requests`, `BeautifulSoup`, `selenium`
 
 I did this project as my homework.
