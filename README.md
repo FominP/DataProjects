@@ -61,6 +61,13 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 Этот проект я делал в качестве домашней работы в магистратуре.
 
+### ProsyrSpider
+Задача: научиться работать со средствами парсинга.
+
+Библиотеки: `scrapy`
+
+Этот проект я делал в качестве домашней работы в магистратуре.
+
 
 # EN
 ### tgu_practice
@@ -119,5 +126,12 @@ I did this project as my homework.
 Task: to learn how to work with parsing tools.
 
 Libraries: `requests`, `BeautifulSoup`, `selenium`
+
+I did this project as my homework.
+
+### ProsyrSpider
+Task: to learn how to work with parsing tools.
+
+Libraries: `scrapy`
 
 I did this project as my homework.
