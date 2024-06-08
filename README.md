@@ -47,6 +47,13 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 Этот проект я делал в качестве домашней работы в течение 1 дня. Я хотел разобраться в том, как работать с геоданными. Результаты вы можете найти здесь: https://public.tableau.com/app/profile/pavel.fomin/viz/CanadianTransport/Automotive?publish=yes
 
+### apache_spark_practice
+Задача: научиться работать с pyspark в Google Colab.
+
+Библиотеки: `pyspark`
+
+Этот проект я делал в качестве домашней работы в магистратуре.
+
 ### requests_api
 Задача: научиться работать с данными из разных API.
 
@@ -114,6 +121,13 @@ Task: collecting data on the exchange rates of a large number of countries for f
 Libraries: `pandas`, `investpy`
 
 I did this project at the university to upload currency exchange rate data. I also wanted to practice retrieving data from the REST API services. I decided to post the code for fellow students who do not know how to use Python for such tasks.
+
+### apache_spark_practice
+Task: to learn how to work with с pyspark in Google Colab.
+
+Libraries: `pyspark`
+
+I did this project as my homework.
 
 ### requests_api
 Task: to learn how to work with data from different APIs.
