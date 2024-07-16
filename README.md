@@ -54,6 +54,13 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 Этот проект я делал в качестве домашней работы в магистратуре.
 
+### coffee_shops
+Задача: научиться работать со средствами визуализации в python.
+
+Библиотеки: `pandas`, `matplotlib`, `seaborn`, `plotly.express`, `folium`, `geopy`
+
+Этот проект я делал в качестве домашней работы в магистратуре.
+
 ### requests_api
 Задача: научиться работать с данными из разных API.
 
@@ -126,6 +133,13 @@ I did this project at the university to upload currency exchange rate data. I al
 Task: to learn how to work with с pyspark in Google Colab.
 
 Libraries: `pyspark`
+
+I did this project as my homework.
+
+### coffee_shops
+Task: to learn how to work with different data visualisation tools in python.
+
+Libraries: `pandas`, `matplotlib`, `seaborn`, `plotly.express`, `folium`, `geopy`
 
 I did this project as my homework.
 
