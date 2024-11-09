@@ -82,6 +82,13 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 Этот проект я делал в качестве домашней работы в магистратуре.
 
+### econometrics
+Задача: научиться использовать линейную регрессию и выгружать данные из различных API.
+
+Библиотеки: `pandas`, `requests`, `statsmodels`, `matplotlib`, `levenpandas`
+
+Этот проект я делал в качестве домашней работы в магистратуре.
+
 
 # EN
 ### tgu_practice
@@ -161,5 +168,12 @@ I did this project as my homework.
 Task: to learn how to work with parsing tools.
 
 Libraries: `scrapy`
+
+I did this project as my homework.
+
+### econometrics
+Task: to learn how to use linear regression and load data from various APIs.
+
+Libraries: `pandas`, `requests`, `statsmodels`, `matplotlib`, `levenpandas`
 
 I did this project as my homework.
