@@ -2,6 +2,21 @@
 You can find project descriptions in Russian and English. / Вы можете найти описание к проектам на русском и английском. 
 
 # RU
+### classification_project
+Задача: Предсказать активность покупателей в интернет-магазине в следующем периоде.
+
+Библиотеки: `sklearn`, `shap`, `pandas`, `matplotlib`, `seaborn`
+
+Это проект из моей магистерской программы.
+
+### linear_project
+Задача: Предсказать удой коров в зависимости от входных признаков.
+
+Библиотеки: `sklearn`, `pandas`, `matplotlib`, `seaborn`
+
+Это проект из моей магистерской программы.
+
+
 ### tgu_practice
 Задача: Изучить, есть ли закономерности между тем, какие цели ставят студенты и по каким причинам они бросают обучение.
 
@@ -91,6 +106,20 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 
 # EN
+### classification_project
+Task: To predict the activity of customers in the online store in the next period.
+
+Libraries: `sklearn`, `shap`, `pandas`, `matplotlib`, `seaborn`
+
+This is a project from my master's programme.
+
+### linear_project
+Task: To predict the milk yield of cows depending on the input characteristics.
+
+Libraries: `pandas`, `matplotlib`, `seaborn`, `sklearn`
+
+This is a project from my master's programme.
+
 ### tgu_practice
 Task: to study whether there is a correlation between what goals students set and for what reasons they drop out.
 
