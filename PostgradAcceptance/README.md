@@ -9,7 +9,7 @@
 Файлы:
 - `ratings.ipynb` Основной файл с кодом расчёта по всем пунктам исследования.
 - `charts.py` Файл с функциями, которые я использовал для оформления графиков в стиле своего телеграм-канала. Решил вынести их в отдельный файл, так как планирую переиспользовать.
-- .xlsx-файлы это выгрузки с сайта приёмной комиссии РЭУ. Я вытаскивал таблицы из .pdf-файлов, выложенных на сайте, и сохранял в .xlsx с помощью ilovepdf.
+- Папка `data` содержит .xlsx и .csv файлы. Это выгрузки с сайта приёмной комиссии РЭУ. Я вытаскивал таблицы из .pdf-файлов, выложенных на сайте, и сохранял в .xlsx с помощью ilovepdf.
 
 
 # EN
@@ -23,4 +23,4 @@ This is my pet project, which was posted on my telegram channel. I made it out o
 Files:
 - `ratings.ipynb` The main file with source code for all points of the study.
 - `charts.py` A file with functions that I used to format graphs in the style of my telegram channel. I decided to put them in a separate file, as I plan to reuse them.
-- .xlsx files are downloads from the website of the PRUE Admissions Office. I pulled tables from .pdf files posted on the site and saved them in .xlsx using ilovepdf.
+- Folder `data` contains .xlsx and .csv files. Those are downloads from the website of the PRUE Admissions Office. I pulled tables from .pdf files posted on the site and saved them in .xlsx using ilovepdf.
