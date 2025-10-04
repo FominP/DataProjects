@@ -1,7 +1,21 @@
 # Welcome to my data projects!
-You can find project descriptions in Russian and English. / Вы можете найти описание к проектам на русском и английском. 
+Вы можете найти описание к проектам на русском и английском.  / You can find project descriptions in Russian and English.
 
 # RU
+### PostgradAcceptance
+Задача: Изучить данные по поступлению в аспирантуру, рассчитать собственный рейтинг, построить графики для редактирования в Figma.
+
+Библиотеки: `pandas`, `matplotlib`, `plotly`
+
+Это мой пет-проект, который был выложен в моём телеграм-канале. Я делал его из любопытства. Своё место в рейтинге я рассчитывал во время приёмной кампании, чтобы оценить свои шансы на поступление.
+
+### linear_project
+Задача: Предсказать удой коров в зависимости от входных признаков.
+
+Библиотеки: `sklearn`, `pandas`, `matplotlib`, `seaborn`
+
+Это проект из моей магистерской программы.
+
 ### classification_project
 Задача: Предсказать активность покупателей в интернет-магазине в следующем периоде.
 
@@ -106,6 +120,14 @@ You can find project descriptions in Russian and English. / Вы можете н
 
 
 # EN
+
+### PostgradAcceptance
+Task: To study the data on admission to graduate school, calculate rating, and build graphs for editing in Figma.
+
+Libraries: `pandas`, `matplotlib`, `plotly`
+
+This is my pet project, which was posted on my telegram channel. I made it out of curiosity. I calculated my place in the ranking during the admission campaign in order to assess my chances of admission.
+
 ### classification_project
 Task: To predict the activity of customers in the online store in the next period.
 
