@@ -14,7 +14,7 @@
 
 # EN
 
-Task: To study the data on admission to graduate school, calculate your own rating, and build graphs for editing in Figma.
+Task: To study the data on admission to graduate school, calculate rating, and build graphs for editing in Figma.
 
 Libraries: `pandas`, `matplotlib`, `plotly`
 
