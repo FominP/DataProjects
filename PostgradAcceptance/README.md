@@ -12,7 +12,7 @@
 - .xlsx-файлы это выгрузки с сайта приёмной комиссии РЭУ. Я вытаскивал таблицы из .pdf-файлов, выложенных на сайте, и сохранял в .xlsx с помощью ilovepdf.
 
 
-#EN
+# EN
 
 Task: To study the data on admission to graduate school, calculate your own rating, and build graphs for editing in Figma.
 
