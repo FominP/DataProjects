@@ -1,4 +1,5 @@
 # RU
+
 Задача: Изучить данные по поступлению в аспирантуру, рассчитать собственный рейтинг, построить графики для редактирования в Figma.
 
 Библиотеки: `pandas`, `matplotlib`, `plotly`
@@ -12,6 +13,7 @@
 
 
 #EN
+
 Task: To study the data on admission to graduate school, calculate your own rating, and build graphs for editing in Figma.
 
 Libraries: `pandas`, `matplotlib`, `plotly`
