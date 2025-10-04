@@ -1,5 +1,5 @@
 # Welcome to my data projects!
-You can find project descriptions in Russian and English. / Вы можете найти описание к проектам на русском и английском. 
+Вы можете найти описание к проектам на русском и английском.  / You can find project descriptions in Russian and English.
 
 # RU
 ### PostgradAcceptance
