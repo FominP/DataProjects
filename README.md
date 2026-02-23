@@ -9,6 +9,13 @@
 
 Это мой пет-проект, который был выложен в моём телеграм-канале. Я делал его из любопытства. Своё место в рейтинге я рассчитывал во время приёмной кампании, чтобы оценить свои шансы на поступление.
 
+### test_tourism
+Задача: Изучить данные по выезду и въезду в Россию с целью туризма.
+
+Библиотеки: `pandas`
+
+Это тестовое задание, которое я делал во время отбора на Летнюю Школу в 2024 году.
+
 ### linear_project
 Задача: Предсказать удой коров в зависимости от входных признаков.
 
@@ -127,6 +134,13 @@ Task: To study the data on admission to graduate school, calculate rating, and b
 Libraries: `pandas`, `matplotlib`, `plotly`
 
 This is my pet project, which was posted on my telegram channel. I made it out of curiosity. I calculated my place in the ranking during the admission campaign in order to assess my chances of admission.
+
+### test_tourism
+Task: To analyze data on outbound and inbound tourism in Russia.
+
+Libraries: `pandas`
+
+This is a test assignment I completed during the selection process for the Summer School in 2024.
 
 ### classification_project
 Task: To predict the activity of customers in the online store in the next period.
