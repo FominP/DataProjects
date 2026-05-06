@@ -9,6 +9,15 @@
 
 Это мой пет-проект, который был выложен в моём телеграм-канале. Я делал его из любопытства. Своё место в рейтинге я рассчитывал во время приёмной кампании, чтобы оценить свои шансы на поступление.
 
+### ABTesting
+Это папка для моих учебных заданий по A/B-тестированию из моего университета. Вы можете найти описание к проектам на русском и английском. 
+
+### SQLTasks
+Это папка для моих учебных заданий по SQL из моего университета. Вы можете найти описание к проектам на русском и английском. 
+
+### Kaggle
+Это папка для моих учебных заданий по соревнованиям с kaggle.
+
 ### test_tourism
 Задача: Изучить данные по выезду и въезду в Россию с целью туризма.
 
@@ -134,6 +143,15 @@ Task: To study the data on admission to graduate school, calculate rating, and b
 Libraries: `pandas`, `matplotlib`, `plotly`
 
 This is my pet project, which was posted on my telegram channel. I made it out of curiosity. I calculated my place in the ranking during the admission campaign in order to assess my chances of admission.
+
+### ABTesting
+This is a folder for my learning tasks for A/B testing from my university. You can find project descriptions in Russian and English.
+
+### SQLTasks
+This is a folder for my SQL tasks from my university. You can find project descriptions in Russian and English.
+
+### Kaggle
+This is a folder for my kaggle contests admissions.
 
 ### test_tourism
 Task: To analyze data on outbound and inbound tourism in Russia.
